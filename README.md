@@ -1,0 +1,1 @@
+wedding_app_firebase_functions
