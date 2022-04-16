@@ -1,1 +1,2 @@
 wedding_app_firebase_functions
+firebase deploy --only functions
